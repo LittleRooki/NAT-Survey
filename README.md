@@ -1,7 +1,7 @@
 # NAT-Survey
 A survey of non-autoregressive neural machine translation
 
-## 行文结构
+## 总体结构
 ### 自回归描述
 ### 对比引出非自回归
 - 基于隐变量的方法
