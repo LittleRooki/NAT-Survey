@@ -37,11 +37,11 @@
 - [arXiv] [Masked Non-Autoregressive Image Captioning](https://arxiv.org/pdf/1906.00717.pdf)
 
 ## 2020
-- [ACM] [Iterative Back Modification for Faster Image Captioning]
+- [ACM] Iterative Back Modification for Faster Image Captioning
 - [IJCAI] [Non-Autoregressive Image Captioning with Counterfactuals-Critical Multi-Agent Learning](https://arxiv.org/pdf/2005.04690.pdf)
 
 ## 2021
-- [AAAI] [Partially Non-Autoregressive Image Captioning]
+- [AAAI] Partially Non-Autoregressive Image Captioning
   
 
 
